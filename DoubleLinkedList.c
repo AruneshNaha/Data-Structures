@@ -21,6 +21,7 @@ void create()
         {
             tmp1->next=NULL;
             tmp1->prev=NULL;
+            head=tmp1;
             tmp2=tmp1;
         }
         else
